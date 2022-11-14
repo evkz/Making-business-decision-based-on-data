@@ -5,4 +5,4 @@
   * Launch an A/B test analyze the results
 * The repository contain: 
   * 3 csv files (hyptheses_us, orders_us, visits_us) with raw data
-  * Making business decision based on data final.ipynb file with the analysis report 
+  * Making business decision based on data, ipynb file with the analysis report 
